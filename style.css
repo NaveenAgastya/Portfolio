@@ -935,6 +935,9 @@ footer a{
 
 
 /* Break points */
+
+@media only screen and(max-width:767px)
+{
 @media(max-width:991px){
     header,
     header.sticky{
@@ -960,6 +963,8 @@ footer a{
         margin-top: 2rem;
     }
 }
+
+
 
 @media(max-width:768px){
     #menu-icon{
@@ -1040,4 +1045,5 @@ footer a{
    .img-about p{
     font-size: 1rem;
    }
+}
 }
