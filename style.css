@@ -71,11 +71,7 @@ header.sticky{
     padding: 12px 10%;
 }
 
-.logo{
-    font-size: 26px;
-    font-weight: 700;
-    letter-spacing: 1px;
-}
+
 
 span{
     color: var(--hover-color);
@@ -115,7 +111,7 @@ span{
     font-size: 1.8rem;
     z-index: 10001;
     cursor: pointer;
-    margin-left: 25px;
+    margin-left: 20px;
     background: var(--hover-color);
     border-radius: 3px;
     color: var(--secon-bg-color);
