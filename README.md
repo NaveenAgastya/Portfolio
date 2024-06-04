@@ -25,7 +25,7 @@ I'm Naveena, a Web developer  passionate about Creating attractive websites . Wi
 - Company: InternPedia 
 - Position: Intern
 - Duration: 01-02-2024 - 01-03-2024
-- Responsibilities: In this Company I performed as a python developer intern. Performe on some project such as to-do list, landing page, calculator, etc
+- Responsibilities: In this Internship I performed as a intern  in the field of python developer. Performed on some project such as to-do list, landing page, calculator, etc
 
 
 ## Contact Me
