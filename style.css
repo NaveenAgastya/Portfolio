@@ -963,7 +963,7 @@ footer a{
 
 
 
-@media(max-width:767px){
+@media(max-width:768px){
     #menu-icon{
         display: block;
         transition: all .4s ease;
@@ -981,7 +981,7 @@ footer a{
         flex-direction: column;
         background: var(--bg-color);
         text-align: left;
-        padding: 0.5%;
+        padding: 0 5%;
         transition: all .45s ease;
     }
     .navlist a{
