@@ -935,9 +935,6 @@ footer a{
 
 
 /* Break points */
-
-@media only screen and(max-width:767px)
-{
 @media(max-width:991px){
     header,
     header.sticky{
@@ -966,7 +963,7 @@ footer a{
 
 
 
-@media(max-width:768px){
+@media(max-width:767px){
     #menu-icon{
         display: block;
         transition: all .4s ease;
@@ -984,7 +981,7 @@ footer a{
         flex-direction: column;
         background: var(--bg-color);
         text-align: left;
-        padding: 0 5%;
+        padding: 0.5%;
         transition: all .45s ease;
     }
     .navlist a{
@@ -1046,4 +1043,4 @@ footer a{
     font-size: 1rem;
    }
 }
-}
+
