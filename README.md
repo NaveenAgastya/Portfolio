@@ -34,6 +34,6 @@ I'm Naveena, a Web developer  passionate about Creating attractive websites . Wi
 
 - LinkedIn: https://www.linkedin.com/in/naveena-n-a-379843265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- Personal Website: https://naveenagastya.github.io/Naveen/
+- Personal Website: https://naveenagastya.github.io/Portfolio/
 
 Feel free to reach out to me for collaboration opportunities or to learn more about my work!
